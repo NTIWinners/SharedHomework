@@ -1,3 +1,7 @@
+Справка [по операторам сравнения](https://learn.javascript.ru/comparison), [условным операторам](https://learn.javascript.ru/ifelse) и [логическим операторам](https://learn.javascript.ru/logical-ops)
+
+------
+
 1. Настроить хранилище кода:
    - Создать аккаунт на [гитхабе](https://github.com/)
    - Установить [Github Desktop](https://desktop.github.com/)
