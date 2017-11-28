@@ -15,7 +15,7 @@
 
 4. Пользователь вводит вещественные числа a, b, c (a ≠ 0). Программа выводит вещественные корни квадратного уравнения ax<sup>2</sup> + bx + c = 0 или сообщает, что корней нет
 
-   - Напоминание, как [решаются квадратные уравнения](https://www.berdov.com/docs/equation/quadratic_equations/), для тех кто забыл
+   - Напоминание, как [решаются квадратные уравнения](http://ru.solverbook.com/spravochnik/reshenie-uravnenij/korni-kvadratnogo-uravneniya/), для тех кто забыл
    - Для вычисления квадратного корня используй функцию `Math.sqrt()`. [Описание](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
 
 5. *Камень*, *ножницы*, *бумага*, *ящерица*, *Спок*. Программа просит выбрать первого игрока одну из пяти фигур:
