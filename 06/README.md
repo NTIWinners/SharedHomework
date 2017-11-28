@@ -1,7 +1,7 @@
 Справка [по операторам сравнения](https://learn.javascript.ru/comparison), [условным операторам](https://learn.javascript.ru/ifelse) и [логическим операторам](https://learn.javascript.ru/logical-ops)
 
 ------
-
+1. Создать аккаунт на [гитхабе](https://github.com/) и принять приглашение для создания [репозитория с домашкой](https://classroom.github.com/a/04a4rvTg) и для [работы в классе](https://classroom.github.com/a/nH32M54x) (для тех, кто так этого и не сделал)
 1. CodeCombat
 
    - Зарегистрируйся в [игре](https://codecombat.com/)
