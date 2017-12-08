@@ -1,0 +1,14 @@
+{
+  "name": "guess-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
