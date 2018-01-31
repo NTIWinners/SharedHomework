@@ -1,3 +1,5 @@
+[Скачать](https://github.com/NTIWinners/SharedHomework/raw/master/11/template.zip) шаблонный проект для VS Code
+
 1. Создайте машинку, движущуюся на зрителя
 
    <details><summary>Пример результата</summary>
